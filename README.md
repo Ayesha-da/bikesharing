@@ -1,8 +1,9 @@
 # Bike-sharing
 ## Overview of the Analysis:
-To  convince investors that a bike-sharing program in Des Moines is a solid business proposal.Bike trip analysis is presented to solidify the proposal.
+To  convince investors that a bike-sharing program in Des Moines is a solid business proposal. A bike trip analysis is presented to solidify the proposal.
 ## Results:
-![storybegin](https://user-images.githubusercontent.com/84524153/132990760-423db0ac-923d-4d31-bda8-21a869733db5.png)
+### Bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, a bike trip analysis has been performed by exploring few questions.
+![storybegin1](https://user-images.githubusercontent.com/84524153/132992334-a4b98120-3439-4cb3-b846-18d4f119a0ea.png)
 
 #### - How long bikes are checked out?
 
@@ -40,9 +41,9 @@ To  convince investors that a bike-sharing program in Des Moines is a solid busi
 
 ![toplocations](https://user-images.githubusercontent.com/84524153/132989512-8a0051de-6372-47d8-bb96-b62bebfe11ef.png)
 
-#### - where do people drop off the bikes?
+#### - Where do people drop off the bikes?
  
-The following visualization shows the most popular places to end a bike ride.
+  The following visualization shows the most popular places to end a bike ride.
 
 ![endinglocations](https://user-images.githubusercontent.com/84524153/132989516-b95cf7f0-c2fa-4e49-8a93-c4a8ea1800fd.png)
 
@@ -55,4 +56,11 @@ The following visualization shows the most popular places to end a bike ride.
 
 
 ## Summary:
+ Bike Trip Analysis shows that bike-sharing program in Des Moines is sustainable business and have potential to generate decent revenue.
+ 
+  ##### Two additional visualizations for future analysis: 
+- Peak riding hours in summer as this time of the year people usually like to spend time outside and it spikes the need of number of  of bikes.
+- Average trip duration by age to determine how long riders need a bike and what is the trend of bike need among young bikers.
+
+##### Click the link below to visit the story on Tableau.
 https://public.tableau.com/views/bike-ridingchallenge/Bike-RidingProposal?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
