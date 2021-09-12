@@ -37,7 +37,7 @@ To  convince investors that a bike-sharing program in Des Moines is a solid busi
 
 #### - What are the highest-traffic locations for starting a bike journey?
 
-  The following visualization shows highest-traffic locations Understanding both when and where people use bikes to start a journey.. 
+  The following visualization shows highest-traffic locations by understanding both when and where people use bikes to start a journey.. 
 
 ![toplocations](https://user-images.githubusercontent.com/84524153/132989512-8a0051de-6372-47d8-bb96-b62bebfe11ef.png)
 
