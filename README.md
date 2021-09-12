@@ -11,7 +11,7 @@ To  convince investors that a bike-sharing program in Des Moines is a solid busi
 
 ![bta1](https://user-images.githubusercontent.com/84524153/132988685-ea69a694-b44b-4d5d-9acc-05dcaaaa2434.png)
 
-#### - How long bikes are checked out for all riders and genders?
+#### - How long bikes are checked out for each  gender?
 
   The following visualization show the length of time that bikes are checked out for each gender.
 
