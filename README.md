@@ -60,7 +60,7 @@ To  convince investors that a bike-sharing program in Des Moines is a solid busi
  
   ##### Two additional visualizations for future analysis: 
 - Peak riding hours in summer as this time of the year people usually like to spend time outside and it spikes the need of number of  of bikes.
-- Average trip duration by age to determine how long riders need a bike and what is the trend of bike need among young bikers.
+- Average trip duration by age to determine how long riders need a bike and what is the trend of bike usage among young bikers.
 
 ##### Click the link below to visit the story on Tableau.
 https://public.tableau.com/views/bike-ridingchallenge/Bike-RidingProposal?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
