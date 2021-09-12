@@ -2,7 +2,7 @@
 ## Overview of the Analysis:
 To  convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 ## Results:
-### To solidify bike-sharing business proposal,bike trip analysis has been performed by exploring few questions.
+### To solidify the proposal, a bike trip analysis has been performed by exploring few questions.
 ![storybegin1](https://user-images.githubusercontent.com/84524153/132992334-a4b98120-3439-4cb3-b846-18d4f119a0ea.png)
 
 #### - How long bikes are checked out?
